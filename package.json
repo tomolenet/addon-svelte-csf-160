@@ -1,0 +1,11 @@
+{
+  "name": "addon-svelte-csf-160",
+  "description": "https://github.com/storybookjs/addon-svelte-csf/issues/160",
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/sveltekit-app",
+    "packages/storybook"
+  ],
+  "scripts": {},
+  "devDependencies": {}
+}
