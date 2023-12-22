@@ -7,16 +7,16 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^7.6.1",
-    "@storybook/addon-interactions": "^7.6.1",
-    "@storybook/addon-links": "^7.6.1",
-    "@storybook/addon-svelte-csf": "^4.0.13",
-    "@storybook/blocks": "^7.6.1",
-    "@storybook/svelte": "^7.6.1",
-    "@storybook/sveltekit": "^7.6.1",
-    "@storybook/test": "^7.6.1",
+    "@storybook/addon-essentials": "7.6.6",
+    "@storybook/addon-interactions": "7.6.6",
+    "@storybook/addon-links": "7.6.6",
+    "@storybook/addon-svelte-csf": "4.0.13",
+    "@storybook/blocks": "7.6.6",
+    "@storybook/svelte": "7.6.6",
+    "@storybook/sveltekit": "7.6.6",
+    "@storybook/test": "7.6.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.6.1"
+    "storybook": "7.6.6"
   }
 }
